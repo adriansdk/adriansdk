@@ -3,7 +3,7 @@
 
 <br />
 
-I'm a Software Engineer from Brazil, front-end expert and aspiring game developer, currently living in Jacksonville - FL.  
+I'm a Software Engineer, front-end expert and game developer. Recently immigrated from Brazil and currently living in Jacksonville - FL.  
 
 **About me**
 
