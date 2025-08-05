@@ -11,7 +11,7 @@ I'm a Software Engineer, front-end expert and game developer. Recently immigrate
 
 - 📈 Currently working with React, Typescript, Next.js, Tailwind and GraphQL. 
 
-- ❤️  Passionate about all things software, my spare time is currently spent solo developing an Idle RPG game for Mobile, Web and Steam built on Unity, C#, .NET and Blender. Demo coming soon on Itch.io!  
+- ❤️  Passionate about all things software, my spare time is currently spent solo developing an Idle RPG game for Mobile, Web and Steam built on Unity, C#, .NET and Blender. [Play the Alpha Version](https://adriansdk.itch.io/endless-exile)!  
 
 - 💬 Learn more about my carrer [here](https://www.linkedin.com/in/adrian-visnieski/)
 
