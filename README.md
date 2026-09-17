@@ -3,15 +3,13 @@
 
 <br />
 
-I'm a Software Engineer, front-end expert and game developer. Recently immigrated from Brazil and currently living in Jacksonville - FL.  
-
 **About me**
 
-- 💼 Software Engineer with 5 years of experience building Front End solutions for companies such as Johnson & Johnson, Simpleshow, TOTVS and Estadão. 
+- 💼 Software Engineer with 7+ years of experience building Front End solutions for companies such as Johnson & Johnson, Simpleshow, TOTVS and Estadão. 
 
 - 📈 Currently working with React, Typescript, Next.js, Tailwind and GraphQL. 
 
-- ❤️  Passionate about all things software, my spare time is currently spent solo developing Endless Exile, an Idle RPG game for Mobile, Web and Steam built on Unity, C#, .NET. [Play the Alpha Version](https://adriansdk.itch.io/endless-exile)!  
+- ❤️  Passionate about all things software, my spare time is currently spent 3D Modelling, Rigging, and solo developing Endless Exile, an Idle RPG game for Mobile, Web and Steam built on Unity, C#, .NET. [Play the Alpha Version](https://adriansdk.itch.io/endless-exile)!  
 
 - 💬 Learn more about my carrer [here](https://www.linkedin.com/in/adrian-visnieski/)
 
